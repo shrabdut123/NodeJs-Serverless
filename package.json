@@ -1,0 +1,19 @@
+{
+  "name": "userProfile",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.205.0",
+    "uuid": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrabdut123/NodeJs-Serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrabdut123/NodeJs-Serverless.git/issues"
+  },
+  "homepage": "https://github.com/shrabdut123/NodeJs-Serverless.git#readme"
+}
